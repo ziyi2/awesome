@@ -1,0 +1,24 @@
+{
+  "name": "awesomes-front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziyi2/awesomes-front-end.git"
+  },
+  "author": "ziyi2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziyi2/awesomes-front-end/issues"
+  },
+  "homepage": "https://github.com/ziyi2/awesomes-front-end#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
