@@ -8,13 +8,45 @@
 
 这些都是我自己平时收藏的书签。
 
+### JavaScript
+
+
+#### 杂文
+
+- [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://mp.weixin.qq.com/s/vIKDUrbuxVNQMi_g_fiwUA) 
+
+
 ### Webpack
 
 #### 文档
 
+- [Webpack](https://www.webpackjs.com/) - 静态模块打包器
+
 #### API
 
 - [webpack-chain](https://github.com/neutrinojs/webpack-chain) - 生成和修改Webpack配置信息的链式API集
+
+### Babel
+
+- [Babel](https://www.babeljs.cn/) - JavaScript编译器
+
+#### Preset
+
+- [@vue/babel-preset-app](https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/babel-preset-app) - Vue CLI3的Babel插件集
+- [@babel/preset-env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) - Babel插件集
+
+
+### Node.js
+
+#### 杂文
+
+- [Node.js+commander开发命令行工具](https://www.jianshu.com/p/2cae952250d1) - 简书
+
+
+### Npm
+
+#### 杂文
+- [npm link 命令的作用浅析](https://blog.csdn.net/juhaotian/article/details/78672390) 
 
 
 ### Vue
@@ -35,7 +67,15 @@
 
 - [MVVM](https://github.com/ziyi2/mvvm) - 基于Vue的简易MVVM实现
 - [DMQ/MVVM](https://github.com/DMQ/mvvm/issues) - 剖析Vue实现原理，如何实现双向绑定mvvm
+- [剖析 Vue.js 内部运行机制](https://github.com/answershuto/learnVue)  - 掘金小册
+- [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
+- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - 了解$nextTick中macrotask和microtask的区别
 - 
+
+
+
+
+- [为什么Proxy可以优化vue的数据监听机制](https://juejin.im/post/5bfe3360518825653a231f33)
 
 #### UI组件库
 
@@ -56,10 +96,13 @@
 
 #### 博文
 
+- [[译] 尤雨溪：Vue 3.0 计划](https://www.vue-js.com/topic/5bbc65bad87c33e71a870ba3) - 介绍Vue 3.0带来的新特性
+- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - 了解$nextTick中macrotask和microtask的区别
 
 #### 电子书
 
-- [剖析 Vue.js 内部运行机制](https://github.com/answershuto/learnVue) - 
+- [剖析 Vue.js 内部运行机制](https://github.com/answershuto/learnVue)  - 掘金小册
+- [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/) - 全方位细致深度解析Vue.js的实现原理
 
 #### 教程
 
@@ -67,6 +110,11 @@
 #### 社区
 
 - [Vue中文子论坛](https://forum.vuejs.org/c/chinese)
+- [Vue.js专业中文社区](https://www.vue-js.com/)
+
+#### 会议
+
+- [VueConf](https://vue.w3ctech.com/) - Vue.js开发者大会
 
 
 ###  设计模式
@@ -81,6 +129,7 @@
 - [界面之下：还原真实的MV*模式](https://github.com/livoras/blog/issues/11) 
 
 
-### 杂博
+### 杂文
 
 - [让老板虎躯一震的前端技术，KPI杀手](https://juejin.im/post/5c3ff18b6fb9a04a0a5f76aa) - 掘金
+- [深入理解 requestAnimationFrame](http://web.jobbole.com/91578/) - 伯乐
