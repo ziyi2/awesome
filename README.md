@@ -11,6 +11,12 @@
 
 ## 书签
 
+### HTTP
+#### 博文
+
+- [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+
+
 ### CSS
 
 #### 博文
@@ -258,8 +264,3 @@
 ### Fonts
 
 - [Font Awesome](http://www.fontawesome.com.cn/)
-
-
-### 杂博
-
-- [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
