@@ -2,6 +2,11 @@
 
 ## 博客
 
+### Vue
+
+- [VUE CLI3构建库时对于产生polyfill的问题分析](https://github.com/ziyi2/ziyi2.github.io/issues/1)
+- [VUE CLI3缓存旧版本的VUE组件(npm包)问题](https://github.com/ziyi2/ziyi2.github.io/issues/2)
+
 ## 笔记
 
 ## 书签
@@ -16,7 +21,12 @@
 
 #### 博文
 
-- [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://mp.weixin.qq.com/s/vIKDUrbuxVNQMi_g_fiwUA) 
+##### 线程
+- [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://mp.weixin.qq.com/s/vIKDUrbuxVNQMi_g_fiwUA)  - 全面了解JS单线程
+- [Forcing Garbage Collection in node.js and JavaScript](https://www.xarg.org/2016/06/forcing-garbage-collection-in-node-js-and-javascript/) - 强制垃圾回收
+
+##### 语法
+- [如何实现一个深拷贝](https://juejin.im/post/5c45112e6fb9a04a027aa8fe)
 
 
 ###  设计模式
@@ -29,6 +39,14 @@
 - [Understanding JavaServer Pages Model 2 architecture](https://www.javaworld.com/article/2076557/understanding-javaserver-pages-model-2-architecture.html)
 - [GUI Architectures](https://martinfowler.com/eaaDev/uiArchs.html) 
 - [界面之下：还原真实的MV*模式](https://github.com/livoras/blog/issues/11) 
+
+
+### ES6
+
+#### 文档
+
+#### 工具
+
 
 
 ### TypeScirpt
@@ -79,29 +97,68 @@
 - [@babel/preset-env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) - Babel插件集
 
 
+
+#### 博文
+
+- [深入理解Babel原理及其使用](https://www.jianshu.com/p/e9b94b2d52e2)
+- [Babel 6 升级到 Babel 7](https://www.jianshu.com/p/ae9662e33147)
+- [babel-preset-env](https://segmentfault.com/a/1190000011639765)
+- [babel7中 preset-env 完全使用](https://www.cnblogs.com/htoooth/p/9877524.html)
+
 ### Node.js
 
-#### 杂文
-
-- [Node.js+commander开发命令行工具](https://www.jianshu.com/p/2cae952250d1) - 简书
-
-### Mongodb
-
 #### 文档
+
 - [mongoose](https://mongoosejs.com/) - elegant mongodb object modeling for node.js
 - [mongoose中文](https://mongoosedoc.top/)
 
-#### 问题
+#### 应用
 
+[linkerd2](https://linkerd.io/) - Linkerd gives you observability, reliability, and security for your microservices
+
+#### 工具
+
+- [pm2](https://pm2.io/) - The Most Advanced Production Process Manager for Node.js
+
+#### 博文
+
+##### 命令行工具
+- [Node.js+commander开发命令行工具](https://www.jianshu.com/p/2cae952250d1) 
+
+##### mongoose
 - [Mongoose the Typescript way…?](https://stackoverflow.com/questions/34482136/mongoose-the-typescript-way)
- 
+- [mongoose简单关联](https://blog.csdn.net/tangjiarao/article/details/50467804)
+- [mongoose Population 连表／关联使用](https://www.jianshu.com/p/d700ad062083)
 
+##### 框架
 
+- [Node.js环境性能监控](https://juejin.im/post/5c71324b6fb9a049d37fbb7c) - Egg框架
+
+##### 微服务
+- [微服务架构入门](https://segmentfault.com/a/1190000015018291)
+- [微服务简介](https://segmentfault.com/a/1190000015798054)
+
+##### BFF
+- [微服务下使用GraphQL构建BFF](http://baijiahao.baidu.com/s?id=1596158611043646894&wfr=spider&for=pc)
+- [大前端架构思考与选择](https://www.jianshu.com/p/bb8ac7db7e2d)
 
 ### Npm
 
-#### 杂文
+#### 博文
 - [npm link 命令的作用浅析](https://blog.csdn.net/juhaotian/article/details/78672390) 
+
+
+### Yarn
+
+#### 文档
+
+#### 博文
+
+### Git
+
+#### 文档
+
+- [语义化版本 2.0.0](https://semver.org/lang/zh-CN/) - 语义化版本控制规范
 
 
 ### GraphQL
