@@ -25,19 +25,21 @@
 
 ### JavaScript
 
+#### 文档
+
+- [ECMAScript 6 入门
+](http://es6.ruanyifeng.com/) - 开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性
+
+#### 工具
+
+- [JSLint](http://www.jslint.com/) - The JavaScript Code Quality Tool
+- [JSHint](https://jshint.com/docs/) - flags suspicious usage in programs written in JavaScript.
+- [ESLint](https://cn.eslint.org/) - 可组装的JavaScript和JSX检查工具
+- [Prettier](https://prettier.io/) - An opinionated code formatter
+
 #### 博文
 
-##### 线程
-- [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://mp.weixin.qq.com/s/vIKDUrbuxVNQMi_g_fiwUA)  - 全面了解JS单线程
-- [Forcing Garbage Collection in node.js and JavaScript](https://www.xarg.org/2016/06/forcing-garbage-collection-in-node-js-and-javascript/) - 强制垃圾回收
-
-##### 语法
-- [如何实现一个深拷贝](https://juejin.im/post/5c45112e6fb9a04a027aa8fe)
-
-
-###  设计模式
-
-#### 博文
+##### 设计模式
 
 - [MV*架构设计模式的演变历史](https://github.com/ziyi2/mvvm/blob/master/doc/history.md) - 了解MVC、MVP以及MVVM的演变历史
 - [观察者模式和发布/订阅模式](https://github.com/ziyi2/mvvm/blob/master/doc/mode.md)
@@ -46,13 +48,18 @@
 - [GUI Architectures](https://martinfowler.com/eaaDev/uiArchs.html) 
 - [界面之下：还原真实的MV*模式](https://github.com/livoras/blog/issues/11) 
 
+##### 线程
+- [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://mp.weixin.qq.com/s/vIKDUrbuxVNQMi_g_fiwUA)  - 全面了解JS单线程
+- [Forcing Garbage Collection in node.js and JavaScript](https://www.xarg.org/2016/06/forcing-garbage-collection-in-node-js-and-javascript/) - 强制垃圾回收
 
-### ES6
+##### 语法
+- [如何实现一个深拷贝](https://juejin.im/post/5c45112e6fb9a04a027aa8fe)
 
-#### 文档
+##### 工具
 
-#### 工具
-
+- [使用ESLint ＆ Prettier美化Vue代码](https://nice.lovejade.cn/zh/article/beautify-vue-by-eslint-and-prettier.html#%E5%88%9D%E5%A7%8B%E5%8C%96-vue-%E9%A1%B9%E7%9B%AE%E6%8E%A8%E4%BB%8B)
+- [eslint prettier的配置选项（参数）官网直译](https://segmentfault.com/a/1190000012909159)
+- [A Comparison of JavaScript Linting Tools](https://www.sitepoint.com/comparison-javascript-linting-tools/) - JSLint，JSHint，JSCS和ESLint对比
 
 
 ### TypeScirpt
@@ -68,6 +75,12 @@
 
 - [vue + typescript 新项目起手式](https://segmentfault.com/a/1190000011744210) 
 - [vue + typescript 进阶篇](https://segmentfault.com/a/1190000011878086)
+
+
+
+
+
+
 
 ### Webpack
 
@@ -201,6 +214,7 @@
 - [Vue Loader](https://vue-loader.vuejs.org/zh/guide/#vue-cli) - Vue组件的webpack loader
 - [Vue插件开发指南](https://cli.vuejs.org/zh/dev-guide/plugin-dev.html) - Vue CLI3的插件开发指南手册
 - [Vue SSR 指南](https://ssr.vuejs.org/zh/) - Vue.js服务器端渲染指南
+- [eslint-plugin-vue](https://vuejs.github.io/eslint-plugin-vue/) - Official ESLint plugin for Vue.js
 
 #### 应用
 - [Nuxt](https://zh.nuxtjs.org/guide/installation/) - Vue.js通用应用框架(服务端渲染)
@@ -260,7 +274,16 @@
 
 - [[译] 尤雨溪：Vue 3.0 计划](https://www.vue-js.com/topic/5bbc65bad87c33e71a870ba3) - 介绍Vue 3.0带来的新特性
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - 了解$nextTick中macrotask和microtask的区别
+- [使用ESLint ＆ Prettier美化Vue代码](https://nice.lovejade.cn/zh/article/beautify-vue-by-eslint-and-prettier.html#%E5%88%9D%E5%A7%8B%E5%8C%96-vue-%E9%A1%B9%E7%9B%AE%E6%8E%A8%E4%BB%8B)
 
 ### Fonts
 
 - [Font Awesome](http://www.fontawesome.com.cn/)
+
+
+### Visual Studio Code
+
+#### 插件
+
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier formatter for Visual Studio Code
