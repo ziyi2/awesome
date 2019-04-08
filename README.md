@@ -163,6 +163,12 @@
 
 ### Npm
 
+#### 文档
+
+- [npm中文文档](https://www.npmjs.com.cn/)
+- [语义化版本](https://semver.org/lang/zh-CN/) - 版本发布规范
+
+
 #### 博文
 - [npm link 命令的作用浅析](https://blog.csdn.net/juhaotian/article/details/78672390) 
 
@@ -171,7 +177,21 @@
 
 #### 文档
 
+
+- [yarn](https://yarn.bootcss.com/) - 快速、可靠、安全的依赖管理工具。
+- [Workspaces in Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/)
+- [工作区](https://yarnpkg.com/zh-Hans/docs/workspaces)
+
+#### 工具
+
+- [Lerna](https://lernajs.io/) - A tool for managing JavaScript projects with multiple packages.
+
+
 #### 博文
+
+- [Why you should use a single repository for all your company’s projects](https://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/) - 多项目单仓库思考
+- [Open Sourcing CloudFlare’s UI Framework](https://blog.cloudflare.com/cf-ui/) - 使用Lerna开源的UI框架设计
+- [monorepo 新浪潮 | introduce lerna](https://github.com/pigcan/blog/issues/3) - Lerna介绍
 
 ### Git
 
