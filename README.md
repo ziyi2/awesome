@@ -43,7 +43,7 @@
 - [数据结构和算法](https://github.com/ziyi2/data-structure-algorithm-procedure)  - 参考《数据结构与算法JavaScript描述》
 - [JS类和继承](https://github.com/ziyi2/js/blob/master/JS%E7%B1%BB%E5%92%8C%E7%BB%A7%E6%89%BF.md) - 参考《ES6标准入门》、 《JavaScript高级程序设计》、《JavaScript权威指南》
 - [设计模式](https://github.com/ziyi2/js/blob/master/JS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md) - 参考两本《JavaScript设计模式》
-- [如何使JS提高运行性能](https://github.com/ziyi2/js/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJS.md) - 参考《JavaScript性能优化(度量监控与可视化)》
+- [如何使JS提高运行性能](https://github.com/ziyi2/js/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJS.md) - 参考《高性能JavaScript》
 - [CSS权威指南](https://github.com/ziyi2/css/blob/master/css%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.docx) - 参考《CSS权威指南》
 - [CSS世界](https://github.com/ziyi2/css/blob/master/css%E4%B8%96%E7%95%8C.md) - 参考《CSS世界》、《CSS权威指南》
 - [精通CSS](https://github.com/ziyi2/css/blob/master/%E7%B2%BE%E9%80%9Acss.md) - 参考《精通CSS：高级WEB标签解决方案》
@@ -57,29 +57,29 @@
 > 有些书买了，但是可能永远也不会看。
 ### HTML
 
-- [ ]《HTML5与CSS3权威指南》- 陆凌牛 - 机械工业出版社
+- [ ] 《HTML5与CSS3权威指南》- 陆凌牛 - 机械工业出版社
 
 ### JavaScript
 
 - [x] 《JavaScript从入门到精通》- 明日科技 - 清华大学出版社
 - [x] 《JavaScript宝典（第六版）》- (美)古德曼,(美)莫里森 - 人民邮电出版社
-- [x]《JavaScript高级程序设计》- Nicholas C. Zakas - 人民邮电出版社
-- [x]《JavaScript权威指南》- (美)弗兰纳根 -  机械工业出版社
+- [x] 《JavaScript高级程序设计》- Nicholas C. Zakas - 人民邮电出版社
+- [x] 《JavaScript权威指南》- (美)弗兰纳根 -  机械工业出版社
 - [x] 《高性能JavaScript》 - Nicholas C. Zakas - 电子工业出版社
 - [x]  《JavaScript设计模式》-  - (美)奥斯马尼 - 电子工业出版社
 - [x] 《ES6标准入门》 - 阮一峰 电子工业出版社 
 - [x] 《JavaScript设计模式》- 张容铭  -人民邮电出版社 
 - [x] 《jQuery技术内幕》- 高云 - 机械工业出版社
 - [x] 《锋利的jQuery》 - 单东林，张晓菲，魏然 -  人民邮电出版社
-- [ ]《JavaScript性能优化(度量监控与可视化)》- (美)巴克 - 机械工业出版社
-- [ ]《编写可维护的JavaScript》- Nicholas C. Zakas - 人民邮电出版社
+- [ ] 《JavaScript性能优化(度量监控与可视化)》- (美)巴克 - 机械工业出版社
+- [ ] 《编写可维护的JavaScript》- Nicholas C. Zakas - 人民邮电出版社
 - [ ]  《JavaScript语言精髓》- (美)克罗克福德 - 电子工业出版社
 - [ ] 《JavaScript函数式编程》- [美]Michael Fogus - 人民邮电出版社
-- [ ]《JavaScript忍者秘籍》- (美)莱西格,(美)贝比奥特 - 人民邮电出版社
+- [ ] 《JavaScript忍者秘籍》- (美)莱西格,(美)贝比奥特 - 人民邮电出版社
 
 ### 浏览器
 
-- [x]《Chrome扩展及应用开发》- 李喆 - 人民邮电出版社
+- [x] 《Chrome扩展及应用开发》- 李喆 - 人民邮电出版社
 
 ### CSS
 
@@ -87,7 +87,7 @@
 - [x] 《深入理解Bootstrap》 - 徐涛 - 机械工业出版社
 - [x] 《CSS世界》- 张鑫旭 - 人民邮电出版社
 - [x] 《精通CSS：高级WEB标签解决方案》- (英)巴德，(英)科利森，(英)莫尔 - 人民邮电出版社 
-- [ ]《CSS揭秘》- Lea Verou - 人民邮电出版社
+- [ ] 《CSS揭秘》- Lea Verou - 人民邮电出版社
 - [ ] 《CSS实战手册》- [美]David McFarland - 中国电力出版社
 - [ ] 《图解CSS3》- 大漠 - 机械工业出版社
 
@@ -100,8 +100,8 @@
 
 ### 全栈
 
-- [x]《Node.js+MongoDB+Angular Web开发：MEAN全栈权威指南》 - （美）Brad Dayley - 电子工业出版社
-- [x]《Web全栈工程师的自我修养》- 余果 - 人民邮电出版社
+- [x] 《Node.js+MongoDB+Angular Web开发：MEAN全栈权威指南》 - （美）Brad Dayley - 电子工业出版社
+- [x] 《Web全栈工程师的自我修养》- 余果 - 人民邮电出版社
 
 ### Vue
 - [ ] 《Vue.js前端开发 快速入门与专业应用》 - 陈陆扬 -人民邮电出版社
@@ -113,7 +113,7 @@
 
 ### Git
 
-- [x]《Git版本控制管理》- (美)罗力格，(美)麦卡洛  - 人民邮电出版社
+- [x] 《Git版本控制管理》- (美)罗力格，(美)麦卡洛  - 人民邮电出版社
 
 ### 数据结构
 
@@ -135,7 +135,7 @@
 
 ### 正则
 
-- [ ]《精通正则表达式》- (美)杰佛瑞E.F.佛瑞德  - 电子工业出版社 -**【进行中】**
+- [ ] 《精通正则表达式》- (美)杰佛瑞E.F.佛瑞德  - 电子工业出版社 -**【进行中】**
 
 ### 算法
 
@@ -269,6 +269,16 @@
 - [eslint prettier的配置选项（参数）官网直译](https://segmentfault.com/a/1190000012909159)
 - [A Comparison of JavaScript Linting Tools](https://www.sitepoint.com/comparison-javascript-linting-tools/) - JSLint，JSHint，JSCS和ESLint对比
 
+##### 性能优化
+
+- [让老板虎躯一震的前端技术](https://juejin.im/post/5c3ff18b6fb9a04a0a5f76aa) - 掘金
+
+
+##### 风格指南
+
+- [Google JavaScript 代码风格指南](https://juejin.im/post/5bd01d4a518825781e647e90)
+- [JavaScript 代码简洁之道](https://juejin.im/post/5c24b7a851882509a76875e8)
+
 
 ### TypeScirpt
 
@@ -361,6 +371,10 @@
 - [美团点评点餐 Nuxt.js 实战](https://juejin.im/post/598aabe96fb9a03c335a8dde#heading-10)
 - [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
 - [Vue2.0 探索之路——生命周期和钩子函数的一些理解](https://segmentfault.com/a/1190000008010666)
+- [vue-cli3 项目从搭建优化到docker部署](https://juejin.im/post/5c4a6fcd518825469414e062)
+- [离职后才搞懂vue项目开发流程中的疑惑点](https://juejin.im/post/5c488a3cf265da615705cc2a)
+- [Vuex 带来全新的编程体验](https://juejin.im/post/5c3c911ce51d455231347a7a)
+- [vue-cli3 从搭建到优化](https://juejin.im/post/5c3c544c6fb9a049d37f5903)
 
 ### React
 
@@ -392,6 +406,8 @@
 - [彻底解决Webpack打包性能问题](https://zhuanlan.zhihu.com/p/21748318)
 - [让你的Webpack起飞—考拉会员后台Webpack优化实战](https://zhuanlan.zhihu.com/p/42465502)
 - [import、require、export、module.exports 混合使用详解](https://segmentfault.com/a/1190000012386576)
+- [前端构建秘籍](https://juejin.im/post/5c9075305188252d5c743520)
+- [结合vue-cli来谈webpack打包优化](https://juejin.im/post/5c3c55aa51882524b4073394)
 
 ### Gulp
 
@@ -444,9 +460,10 @@
 - [Node.js+commander开发命令行工具](https://www.jianshu.com/p/2cae952250d1) 
 - [Node.js 命令行程序开发教程](http://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html) - 阮一峰
 
-##### mongoose
+##### 数据库
 - [Mongoose the Typescript way…?](https://stackoverflow.com/questions/34482136/mongoose-the-typescript-way)
 - [mongoose Population 连表／关联使用](https://www.jianshu.com/p/d700ad062083)
+- [支撑日活百万用户的高并发系统，应该如何设计其数据库架构？【石杉的架构笔记】](https://juejin.im/post/5c6a9f25518825787e69e70a)
 
 ##### 框架
 
@@ -500,6 +517,7 @@
 - [Open Sourcing CloudFlare’s UI Framework](https://blog.cloudflare.com/cf-ui/) - 使用Lerna开源的UI框架设计
 - [monorepo 新浪潮 | introduce lerna](https://github.com/pigcan/blog/issues/3) - Lerna介绍
 - [Why is Babel a monorepo?](https://github.com/babel/babel/blob/master/doc/design/monorepo.md)
+- [lerna管理前端packages的最佳实践](https://juejin.im/post/5a989fb451882555731b88c2)
 
 ### Git
 
@@ -554,13 +572,24 @@
 - [nginx](https://nginx.org/en/)
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/#nginx)
 
+#### 博文
+
+- [前端必会的 Nginx入门视频教程(共11集)](https://juejin.im/post/5bd7a6046fb9a05d2c43f8c7)
+- [前端开发者必备的Nginx知识](https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)
 
 
+
+### docker
+
+#### 博文
+
+- [如何使用 docker 部署前端应用](https://juejin.im/post/5c83cbaa6fb9a04a0f65fdaa)
 
 ### 地图
 
 #### 文档
 
+- [OpenLayers](https://openlayers.org/)
 - [OpenLayers 3 Primer](http://weilin.me/ol3-primer/index.html) - OpenLayers 3使用的入门教程
 
 
@@ -587,6 +616,7 @@
  
 - [大公司里怎样开发和部署前端代码？](https://www.zhihu.com/question/20790576/answer/32602154) - 张云龙解答
 - [前端开发如何让持续集成/持续部署(CI/CD)跑起来](https://zhuanlan.zhihu.com/p/26701038)
+- [从零搭建docker+jenkins+node.js自动化部署环境](https://juejin.im/post/5b8ddb70e51d45389153f288)
 
 ### Fonts
 
@@ -691,10 +721,21 @@
 #### 经历
 
 - [16年毕业的前端er在杭州求职ing](https://juejin.im/post/5a64541bf265da3e2d338862)
+- [我在淘宝做前端的这三年 — 第一年](https://juejin.im/post/5c74d4b9e51d4512c37ea03b)
+- [我在淘宝做前端的这三年 — 第二年](https://juejin.im/post/5c7dafe8f265da2de25bab27)
+- [我在淘宝做前端的这三年 — 第三年](https://juejin.im/post/5c811e426fb9a04a0c2f3bdb)
+- [阿里前端社招面试总结](https://juejin.im/post/5c90f573e51d450a7d7dfc75)
+- [一位前端 2018 绝地求生记](https://juejin.im/post/5c36fe50518825253b5e94f4)
 
 #### 面试
 
 - [InterviewMap](https://yuchengkai.cn/docs/frontend/#%E6%93%8D%E4%BD%9C%E7%AC%A6) - 打造最好的面试图谱
 - [JavaScript-面试](https://segmentfault.com/a/1190000015863923?utm_source=tag-newest#articleHeader0)
 - [Javascript 面试核心考点(基础版)](https://github.com/ljianshu/Blog/issues/63)
+- [jsliang 的 2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0)
+- [从面试题看 JS 事件循环与 macro micro 任务队列](https://juejin.im/post/5c8a024d51882546be0a3082)
+- [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
+- [面试 -- 网络 HTTP](https://juejin.im/post/5872309261ff4b005c4580d4)
+- [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
+- [(下篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂](https://juejin.im/post/5cc26dfef265da037b611738)
 
