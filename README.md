@@ -5,16 +5,17 @@
 
 ## 博客
 
-### Vue
+> 有些文章写了，但是可能还是没理解透彻。
 
-#### Vue CLI
+### CSS
+
+- [清除和去除浮动](http://www.ziyi2.cn/2017/08/02/%E6%B8%85%E9%99%A4%E5%92%8C%E5%8E%BB%E9%99%A4%E6%B5%AE%E5%8A%A8/)
+
+### Vue
 
 - [VUE CLI3构建库时对于产生polyfill的问题分析](https://github.com/ziyi2/ziyi2.github.io/issues/1)
 - [VUE CLI3缓存旧版本的VUE组件(npm包)问题](https://github.com/ziyi2/ziyi2.github.io/issues/2)
 - [Vue CLI 3结合Lerna进行UI设计](https://github.com/ziyi2/awesomes-front-end/edit/master/README.md)
-
-#### 源码分析
-
 - [Vue源码分析 - nextTick](https://github.com/ziyi2/ziyi2.github.io/issues/5)
 
 
@@ -23,28 +24,149 @@
 
 - [MV*架构设计模式的演变历史](https://github.com/ziyi2/mvvm/blob/master/doc/history.md) - 了解MVC、MVP以及MVVM的演变历史
 - [观察者模式和发布/订阅模式](https://github.com/ziyi2/mvvm/blob/master/doc/mode.md)
-
-
-### 个人站点
-
-- [张鑫旭](https://www.zhangxinxu.com/)
-- [ziyi2](www.ziyi2.cn)
+- [mvvm](https://github.com/ziyi2/mvvm) - 模拟Vue的简易实现
 
 
 ### Git
-
-#### 应用
 
 - [cz工具集使用介绍 - 规范Git提交说明](https://github.com/ziyi2/ziyi2.github.io/issues/6)
 
 
 ## 笔记
 
+> 有些笔记记了，但是可能还是记忆不住。
+
+
+
+- [jquery2.0.3源码分析笔记](https://github.com/ziyi2/jquery) -  参考《锋利的jQuery》、《jQuery技术内幕》、《JavaScript高级程序设计》、《JavaScript权威指南》
+- [算法导论与javascript实现](https://github.com/ziyi2/algorithms-javascript) - 参考《算法导论》、《数据结构与算法JavaScript描述》、[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)、[CLRS](https://github.com/gzc/CLRS) - **【进行中】**
+- [数据结构和算法](https://github.com/ziyi2/data-structure-algorithm-procedure)  - 参考《数据结构与算法JavaScript描述》
+- [JS类和继承](https://github.com/ziyi2/js/blob/master/JS%E7%B1%BB%E5%92%8C%E7%BB%A7%E6%89%BF.md) - 参考《ES6标准入门》、 《JavaScript高级程序设计》、《JavaScript权威指南》
+- [设计模式](https://github.com/ziyi2/js/blob/master/JS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md) - 参考两本《JavaScript设计模式》
+- [如何使JS提高运行性能](https://github.com/ziyi2/js/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJS.md) - 参考《JavaScript性能优化(度量监控与可视化)》
+- [CSS权威指南](https://github.com/ziyi2/css/blob/master/css%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.docx) - 参考《CSS权威指南》
+- [CSS世界](https://github.com/ziyi2/css/blob/master/css%E4%B8%96%E7%95%8C.md) - 参考《CSS世界》、《CSS权威指南》
+- [精通CSS](https://github.com/ziyi2/css/blob/master/%E7%B2%BE%E9%80%9Acss.md) - 参考《精通CSS：高级WEB标签解决方案》
+- [正则表达式](https://github.com/ziyi2/rugular) - 参考《精通正则表达式》- **【进行中】**
+- [ES6学习笔记](https://github.com/ziyi2/es6) - 参考《ES6标准入门》
+- [HTTP协议分析](http://www.ziyi2.cn/2018/04/10/http%E5%8D%8F%E8%AE%AE%E5%88%86%E6%9E%90/) - 参考《图解HTTP》 
+
+
 ## 书籍
 
-- 《Web全栈工程师的自我修养》
+> 有些书买了，但是可能永远也不会看。
+### HTML
+
+- [ ]《HTML5与CSS3权威指南》- 陆凌牛 - 机械工业出版社
+
+### JavaScript
+
+- [x] 《JavaScript从入门到精通》- 明日科技 - 清华大学出版社
+- [x] 《JavaScript宝典（第六版）》- (美)古德曼,(美)莫里森 - 人民邮电出版社
+- [x]《JavaScript高级程序设计》- Nicholas C. Zakas - 人民邮电出版社
+- [x]《JavaScript权威指南》- (美)弗兰纳根 -  机械工业出版社
+- [x] 《高性能JavaScript》 - Nicholas C. Zakas - 电子工业出版社
+- [x]  《JavaScript设计模式》-  - (美)奥斯马尼 - 电子工业出版社
+- [x] 《ES6标准入门》 - 阮一峰 电子工业出版社 
+- [x] 《JavaScript设计模式》- 张容铭  -人民邮电出版社 
+- [x] 《jQuery技术内幕》- 高云 - 机械工业出版社
+- [x] 《锋利的jQuery》 - 单东林，张晓菲，魏然 -  人民邮电出版社
+- [ ]《JavaScript性能优化(度量监控与可视化)》- (美)巴克 - 机械工业出版社
+- [ ]《编写可维护的JavaScript》- Nicholas C. Zakas - 人民邮电出版社
+- [ ]  《JavaScript语言精髓》- (美)克罗克福德 - 电子工业出版社
+- [ ] 《JavaScript函数式编程》- [美]Michael Fogus - 人民邮电出版社
+- [ ]《JavaScript忍者秘籍》- (美)莱西格,(美)贝比奥特 - 人民邮电出版社
+
+### 浏览器
+
+- [x]《Chrome扩展及应用开发》- 李喆 - 人民邮电出版社
+
+### CSS
+
+- [x] 《CSS权威指南》 - Eric A. Meyer 和 Estelle Weyl 著 - 中国电力出版社
+- [x] 《深入理解Bootstrap》 - 徐涛 - 机械工业出版社
+- [x] 《CSS世界》- 张鑫旭 - 人民邮电出版社
+- [x] 《精通CSS：高级WEB标签解决方案》- (英)巴德，(英)科利森，(英)莫尔 - 人民邮电出版社 
+- [ ]《CSS揭秘》- Lea Verou - 人民邮电出版社
+- [ ] 《CSS实战手册》- [美]David McFarland - 中国电力出版社
+- [ ] 《图解CSS3》- 大漠 - 机械工业出版社
+
+### Node.js
+
+- [x] 《Node即学即用》 - (英)TomHughes-Croucher MikeWilson  - 人民邮电出版社
+- [x] 《深入浅出Node.js》 - 朴灵  - 人民邮电出版社
+- [ ] 《Node.js权威指南》- 陆凌牛 - 机械工业出版社
+- [ ] 《Node.js调试指南》- 赵坤 - 电子工业出版社
+
+### 全栈
+
+- [x]《Node.js+MongoDB+Angular Web开发：MEAN全栈权威指南》 - （美）Brad Dayley - 电子工业出版社
+- [x]《Web全栈工程师的自我修养》- 余果 - 人民邮电出版社
+
+### Vue
+- [ ] 《Vue.js前端开发 快速入门与专业应用》 - 陈陆扬 -人民邮电出版社
+- [ ] 《Vue.js权威指南》- 张耀春 - 电子工业出版社
+- [ ] 《Vue2实践揭秘》- 梁睿坤 - 电子工业出版社
+
+### React
+- [ ] 《深入React技术栈》 - 陈屹 - 人民邮电出版社
+
+### Git
+
+- [x]《Git版本控制管理》- (美)罗力格，(美)麦卡洛  - 人民邮电出版社
+
+### 数据结构
+
+- [x] 《数据结构(第二版)》-  严蔚敏 - 清华大学出版社
+- [x] 《数据结构与算法JavaScript描述》- (美)Michael McMillan - 人民邮电出版社
+
+
+### 网络
+- [x] 《计算机网络基础》- 罗娅 - 清华大学出版社
+- [x] 《图解HTTP》 - (日) 上野宣 - 人民邮电出版社
+- [ ] 《深入理解Nginx》- 陶辉 - 机械工业出版社
+- [ ] 《TCP/IP详解 卷1-3》- 机械工业出版社
+- [ ] 《图解TCP/IP》- (日) 竹下隆史 - 人民邮电出版社
+- [ ] 《图解网络硬件》- (日) 竹下隆史 - 人民邮电出版社
+
+### Web
+
+- [ ] 《Web性能权威指南》- Ilya Grigorik - 人民邮电出版社
+
+### 正则
+
+- [ ]《精通正则表达式》- (美)杰佛瑞E.F.佛瑞德  - 电子工业出版社 -**【进行中】**
+
+### 算法
+
+- [ ] 《算法导论》 - (美) 科尔曼 - 机械工业出版社 -**【进行中】**
+- [ ] 《计算机程序设计艺术 卷1：基本算法》- (美) 高德纳 - 人民邮电出版社 
+- [ ] 《算法图解》 - (美) 巴尔加瓦 - 人民邮电出版社
+- [ ] 《算法心得》- (美) Henry S. Warren, Jr. - 机械工业出版社
+
+
+### 存储
+
+- [ ] 《Redis设计与实现》- 黄健宏 - 机械工业出版社
+
+### 软件工程
+
+- [x] 《软件工程》 - 赖均 - 清华大学出版社
+
+### 操作系统
+
+- [ ] 《鸟哥的Linux私房菜基础学习篇》- 鸟哥 - 人民邮电出版社
+- [ ] 《操作系统真象还原》- 郑钢 - 人民邮电出版社
+
+
+### 其他
+
+- [x] [《不止代码》](https://alitech-private.oss-cn-beijing.aliyuncs.com/1530517140411/Codelife.pdf?Expires=1556938189&OSSAccessKeyId=LTAIqKGWQyF6Vd3W&Signature=wdZLS%2bjHUJunoT2fmT7tqvHZ7w0=) - 电子版 - 阿里巴巴
+- [ ] 《前端面试江湖》- 李红米 - 电子工业出版社
 
 ## 书签
+
+> 有些书签收藏了，但是可能永远也不会再打开。
 
 ### HTTP
 
@@ -63,7 +185,6 @@
 - [GET方法与POST方法的区别](https://www.cnblogs.com/sunny-sl/p/6529830.html)
 - [[译] SuperAgent中文使用文档](https://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
 - [彻底明白ip地址，区分localhost、127.0.0.1和0.0.0.0](https://blog.csdn.net/liyi1009365545/article/details/84780476)
-- 
 
 
 ### CSS
@@ -82,6 +203,7 @@
 #### 应用
 
 - [Bootstrap](https://v4.bootcss.com/) - Bootstrap 是全球最受欢迎的前端组件库，用于开发响应式布局、移动设备优先的 WEB 项目
+- [Bootstrap Table](https://bootstrap-table.com/)
 - [Bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox
 
 
@@ -139,6 +261,7 @@
 
 ##### 语法
 - [如何实现一个深拷贝](https://juejin.im/post/5c45112e6fb9a04a027aa8fe)
+- [获取元素CSS值之getComputedStyle方法熟悉](https://www.zhangxinxu.com/wordpress/2012/05/getcomputedstyle-js-getpropertyvalue-currentstyle/) - 张鑫旭
 
 ##### 工具
 
@@ -237,6 +360,7 @@
 - [vue + typescript 进阶篇](https://segmentfault.com/a/1190000011878086)
 - [美团点评点餐 Nuxt.js 实战](https://juejin.im/post/598aabe96fb9a03c335a8dde#heading-10)
 - [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
+- [Vue2.0 探索之路——生命周期和钩子函数的一些理解](https://segmentfault.com/a/1190000008010666)
 
 ### React
 
@@ -269,6 +393,10 @@
 - [让你的Webpack起飞—考拉会员后台Webpack优化实战](https://zhuanlan.zhihu.com/p/42465502)
 - [import、require、export、module.exports 混合使用详解](https://segmentfault.com/a/1190000012386576)
 
+### Gulp
+
+- [Gulp中文网](https://www.gulpjs.com.cn/) - 用自动化构建工具增强你的工作流程！
+
 ### Babel
 
 #### 文档
@@ -293,6 +421,7 @@
 
 #### 文档
 
+- [Node.js文档](http://nodejs.cn/api/)
 - [mongoose](https://mongoosejs.com/) - elegant mongodb object modeling for node.js
 - [mongoose](https://mongoosedoc.top/) - 中文版
 
@@ -496,6 +625,7 @@
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier formatter for Visual Studio Code
+- [Vuetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VS Code, powered by vue-language-server
 
 
 ### 移动端
@@ -526,6 +656,16 @@
 #### 博文
 
 - [为什么算法渐进复杂度中对数的底数总为2](http://blog.codinglabs.org/articles/why-logarithm-base-of-asymptotic-time-complexity-always-two.html)
+
+### 博客
+
+#### 应用
+
+- [Hexo](https://hexo.io/zh-cn/docs/index.html) - Hexo 是一个快速、简洁且高效的博客框架
+- [Next](http://theme-next.iissnan.com/) - Elegant Theme for Hexo
+- [icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo
+- [Yelee](http://moxfive.coding.me/yelee/) - 简而不减 Hexo 双栏博客主题
+- [LeanCloud](https://leancloud.cn/dashboard/login.html#/signin) - 博客评论
 
 ### Markdown
 
