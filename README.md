@@ -1,6 +1,71 @@
 # awesome-front-end
 
--------------------
+> 个人博客、笔记、书籍和书签列表。
+
+- [博客](#博客)
+ - [CSS](#css)
+ - [Vue](#vue)
+ - [设计模式](#设计模式)
+ - [Git](#git)
+- [笔记](#笔记)
+ - [JavaScript](#javascript)
+ - [算法](#算法)
+ - [CSS](#css-1)
+ - [HTTP](#http)
+ - [正则](#正则)
+- [书籍](#书籍)
+ - [HTML](#html)
+ - [JavaScript](#javascript-1)
+ - [浏览器](#浏览器)
+ - [CSS](#css-2)
+ - [Node.js](#nodejs)
+ - [全栈](#全栈)
+ - [Vue](#vue-1)
+ - [React](#react)
+ - [Git](#git-1)
+ - [数据结构](#数据结构)
+ - [网络](#网络)
+ - [Web](#web)
+ - [正则](#正则)
+ - [算法](#算法-1)
+ - [存储](#存储)
+ - [软件工程](#软件工程)
+ - [操作系统](#操作系统)
+ - [其他](#其他)
+- [书签](#书签)
+	- [HTTP](#http-1)
+	- [CSS](#css-3)
+	- [JavaScript](#javascript-2)
+	- [TypeScirpt](#typescript)
+	- [Vue](#vue-2)
+	- [React](#react-1)
+	- [Webpack](#webpack)
+	- [Gulp](#gulp)
+	- [Babel](#babel)
+	- [Node.js](#nodejs-1)
+	- [Npm](#npm)
+	- [Yarn](#yarn)
+	- [Lerna](#lerna)
+	- [Git](#git-2)
+	- [GraphQL](#graphql)
+	- [Nginx](#nginx)
+	- [docker](#docker)
+	- [地图](#地图)
+	- [测试](#测试)
+	- [部署](#部署)
+	- [Fonts](#fonts)
+	- [浏览器](#浏览器-1)
+	- [Visual Studio Code](#visual-studio-code)
+	- [移动端](#移动端)
+	- [算法](#算法-2)
+	- [博客](#博客-1)
+	- [Markdown](#markdown)
+	- [设计](#设计)
+	- [职业](#职业)
+
+
+
+
 
 
 ## 博客
@@ -38,19 +103,34 @@
 
 
 
-- [jquery2.0.3源码分析笔记](https://github.com/ziyi2/jquery) -  参考《锋利的jQuery》、《jQuery技术内幕》、《JavaScript高级程序设计》、《JavaScript权威指南》
-- [算法导论与javascript实现](https://github.com/ziyi2/algorithms-javascript) - 参考《算法导论》、《数据结构与算法JavaScript描述》、[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)、[CLRS](https://github.com/gzc/CLRS) - **【进行中】**
-- [数据结构和算法](https://github.com/ziyi2/data-structure-algorithm-procedure)  - 参考《数据结构与算法JavaScript描述》
-- [JS类和继承](https://github.com/ziyi2/js/blob/master/JS%E7%B1%BB%E5%92%8C%E7%BB%A7%E6%89%BF.md) - 参考《ES6标准入门》、 《JavaScript高级程序设计》、《JavaScript权威指南》
+### JavaScript
+
+- [jquery2.0.3源码分析笔记](https://github.com/ziyi2/jquery) -  参考《锋利的jQuery》/《jQuery技术内幕》/《JavaScript高级程序设计》/《JavaScript权威指南》
 - [设计模式](https://github.com/ziyi2/js/blob/master/JS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md) - 参考两本《JavaScript设计模式》
+- [JS类和继承](https://github.com/ziyi2/js/blob/master/JS%E7%B1%BB%E5%92%8C%E7%BB%A7%E6%89%BF.md) - 参考《ES6标准入门》/ 《JavaScript高级程序设计》/《JavaScript权威指南》
 - [如何使JS提高运行性能](https://github.com/ziyi2/js/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJS.md) - 参考《高性能JavaScript》
-- [CSS权威指南](https://github.com/ziyi2/css/blob/master/css%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.docx) - 参考《CSS权威指南》
-- [CSS世界](https://github.com/ziyi2/css/blob/master/css%E4%B8%96%E7%95%8C.md) - 参考《CSS世界》、《CSS权威指南》
-- [精通CSS](https://github.com/ziyi2/css/blob/master/%E7%B2%BE%E9%80%9Acss.md) - 参考《精通CSS：高级WEB标签解决方案》
-- [正则表达式](https://github.com/ziyi2/rugular) - 参考《精通正则表达式》- **【进行中】**
 - [ES6学习笔记](https://github.com/ziyi2/es6) - 参考《ES6标准入门》
+
+
+### 算法
+
+- [算法导论与javascript实现](https://github.com/ziyi2/algorithms-javascript) - 参考《算法导论》/《数据结构与算法JavaScript描述》/ [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) / [CLRS](https://github.com/gzc/CLRS) - **【进行中】**
+- [数据结构和算法](https://github.com/ziyi2/data-structure-algorithm-procedure)  - 参考《数据结构与算法JavaScript描述》
+
+
+### CSS
+
+- [CSS权威指南](https://github.com/ziyi2/css/blob/master/css%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.docx) - 参考《CSS权威指南》
+- [CSS世界](https://github.com/ziyi2/css/blob/master/css%E4%B8%96%E7%95%8C.md) - 参考《CSS世界》/《CSS权威指南》
+- [精通CSS](https://github.com/ziyi2/css/blob/master/%E7%B2%BE%E9%80%9Acss.md) - 参考《精通CSS：高级WEB标签解决方案》
+
+### HTTP
 - [HTTP协议分析](http://www.ziyi2.cn/2018/04/10/http%E5%8D%8F%E8%AE%AE%E5%88%86%E6%9E%90/) - 参考《图解HTTP》 
 
+
+### 正则
+
+- [正则表达式](https://github.com/ziyi2/rugular) - 参考《精通正则表达式》- **【进行中】**
 
 ## 书籍
 
