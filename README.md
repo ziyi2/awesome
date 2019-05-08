@@ -3,35 +3,35 @@
 > 个人博客、笔记、书籍和书签列表。
 
 - [博客](#博客)
-	- [CSS](#css)
-	- [Vue](#vue)
-	- [设计模式](#设计模式)
-	- [Git](#git)
+ - [CSS](#css)
+ - [Vue](#vue)
+ - [设计模式](#设计模式)
+ - [Git](#git)
 - [笔记](#笔记)
-	- [JavaScript](#javascript)
-	- [算法](#算法)
-	- [CSS](#css-1)
-	- [HTTP](#http)
-	- [正则](#正则)
+ - [JavaScript](#javascript)
+ - [算法](#算法)
+ - [CSS](#css-1)
+ - [HTTP](#http)
+ - [正则](#正则)
 - [书籍](#书籍)
-	- [HTML](#html)
-	- [JavaScript](#javascript-1)
-	- [浏览器](#浏览器)
-	- [CSS](#css-2)
-	- [Node.js](#nodejs)
-	- [全栈](#全栈)
-	- [Vue](#vue-1)
-	- [React](#react)
-	- [Git](#git-1)
-	- [数据结构](#数据结构)
-	- [网络](#网络)
-	- [Web](#web)
-	- [正则](#正则)
-	- [算法](#算法-1)
-	- [存储](#存储)
-	- [软件工程](#软件工程)
-	- [操作系统](#操作系统)
-	- [其他](#其他)
+ - [HTML](#html)
+ - [JavaScript](#javascript-1)
+ - [浏览器](#浏览器)
+ - [CSS](#css-2)
+ - [Node.js](#nodejs)
+ - [全栈](#全栈)
+ - [Vue](#vue-1)
+ - [React](#react)
+ - [Git](#git-1)
+ - [数据结构](#数据结构)
+ - [网络](#网络)
+ - [Web](#web)
+ - [正则](#正则)
+ - [算法](#算法-1)
+ - [存储](#存储)
+ - [软件工程](#软件工程)
+ - [操作系统](#操作系统)
+ - [其他](#其他)
 - [书签](#书签)
 	- [HTTP](#http-1)
 	- [CSS](#css-3)
@@ -96,6 +96,10 @@
 
 - [cz工具集使用介绍 - 规范Git提交说明](https://github.com/ziyi2/ziyi2.github.io/issues/6)
 
+### Npm
+
+- [NPM发布和使用命令行(CLI)工具](https://github.com/ziyi2/ziyi2.github.io/issues/7)
+
 
 ## 笔记
 
@@ -110,6 +114,8 @@
 - [JS类和继承](https://github.com/ziyi2/js/blob/master/JS%E7%B1%BB%E5%92%8C%E7%BB%A7%E6%89%BF.md) - 参考《ES6标准入门》/ 《JavaScript高级程序设计》/《JavaScript权威指南》
 - [如何使JS提高运行性能](https://github.com/ziyi2/js/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJS.md) - 参考《高性能JavaScript》
 - [ES6学习笔记](https://github.com/ziyi2/es6) - 参考《ES6标准入门》
+- [JavaScript高级程序设计](https://github.com/ziyi2/js/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.docx) - 参考《JavaScript高级程序设计》
+- [JavaScript权威指南](https://github.com/ziyi2/js/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.docx) - 参考《JavaScript权威指南》
 
 
 ### 算法
