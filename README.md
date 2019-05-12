@@ -82,6 +82,7 @@
 - [VUE CLI3缓存旧版本的VUE组件(npm包)问题](https://github.com/ziyi2/ziyi2.github.io/issues/2)
 - [Vue CLI 3结合Lerna进行UI设计](https://github.com/ziyi2/awesomes-front-end/edit/master/README.md)
 - [Vue源码分析 - nextTick](https://github.com/ziyi2/ziyi2.github.io/issues/5)
+- [基于Vue的简易MVVM实现](https://github.com/ziyi2/ziyi2.github.io/issues/8)
 
 
 ### 设计模式
