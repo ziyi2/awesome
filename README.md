@@ -1,4 +1,4 @@
-# awesome-front-end
+# Awesome-Front-End
 
 > 个人博客、笔记、书籍和书签列表。
 
