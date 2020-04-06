@@ -10,7 +10,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "dist": "vuepress build docs",
-    "deploy": "gh-pages -d docs/.vuepress/dist",
+    "deploy": "npm run dist && gh-pages -d docs/.vuepress/dist",
     "lint-md": "remark ."
   },
   "keywords": [

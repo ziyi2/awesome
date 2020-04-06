@@ -8,6 +8,9 @@ sidebar: auto
 
 - [面试分享：两年工作经验成功面试阿里 P6 总结](https://juejin.im/post/5d690c726fb9a06b155dd40d)
 - [在阿里我是如何当面试官的（持续更新）](https://juejin.im/post/5e6ebfa86fb9a07ca714d0ec)
+- [【1 月最新】前端 100 问：能搞懂 80% 的请把简历给我](https://juejin.im/post/5d23e750f265da1b855c7bbe)
+- [2018 前端面试总结，看完弄懂，工资少说加 3K | 掘金技术征文](https://juejin.im/post/5b94d8965188255c5a0cdc02)
+- [2019 面试系列 - 简历](https://juejin.im/post/5d05ca79f265da1bc75237ea)
 - [JavaScript-面试](https://segmentfault.com/a/1190000015863923?utm_source=tag-newest#articleHeader0)
 - [Javascript 面试核心考点(基础版)](https://github.com/ljianshu/Blog/issues/63)
 - [jsliang 的 2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0)
@@ -16,6 +19,10 @@ sidebar: auto
 - [面试 -- 网络 HTTP](https://juejin.im/post/5872309261ff4b005c4580d4)
 - [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 - [(下篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂](https://juejin.im/post/5cc26dfef265da037b611738)
+- [面经合集 | 面试不用愁，掘友能解忧，一批大厂面试经验新鲜出炉啦~](https://juejin.im/post/5e731c4c51882549112b5c2d)
+- [中高级前端开发高频面试题](https://juejin.im/post/5ceaaaf0e51d45508c2fb7c0)
+- [前端工程师面试必备（持续更新中）](%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%9D%A2%E8%AF%95%E5%BF%85%E5%A4%87%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89)
+- [阿里前端社招面试总结](https://juejin.im/post/5c90f573e51d450a7d7dfc75)
 
 ## 站点
 
@@ -25,4 +32,4 @@ sidebar: auto
 
 ## 书籍
 
-- 《前端面试江湖》- 没啥卵用
+- 《前端面试江湖》

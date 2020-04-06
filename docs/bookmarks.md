@@ -4,7 +4,7 @@ sidebar: auto
 
 # 书签
 
-**有些书签收藏了，但是可能永远也不会再打开。**
+**有些书签收藏了，但可能永远不会再打开。**
 
 ## HTTP
 
@@ -41,6 +41,7 @@ sidebar: auto
 - [Bootstrap](https://v4.bootcss.com/) - Bootstrap 是全球最受欢迎的前端组件库，用于开发响应式布局、移动设备优先的 WEB 项目
 - [Bootstrap Table](https://bootstrap-table.com/)
 - [Bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox
+- [FLEXBOX FROGGY](http://flexboxfroggy.com/#zh-cn) - 学 Flex 的小游戏
 
 ### 后台模板
 
@@ -106,6 +107,7 @@ sidebar: auto
 - [使用 ESLint ＆ Prettier 美化 Vue 代码](https://nice.lovejade.cn/zh/article/beautify-vue-by-eslint-and-prettier.html#%E5%88%9D%E5%A7%8B%E5%8C%96-vue-%E9%A1%B9%E7%9B%AE%E6%8E%A8%E4%BB%8B)
 - [eslint prettier 的配置选项（参数）官网直译](https://segmentfault.com/a/1190000012909159)
 - [A Comparison of JavaScript Linting Tools](https://www.sitepoint.com/comparison-javascript-linting-tools/) - JSLint，JSHint，JSCS 和 ESLint 对比
+- [一个日期处理类库 moment.js](https://juejin.im/post/5abe07e0f265da237507029e)
 
 #### 性能优化
 
@@ -127,6 +129,7 @@ sidebar: auto
 
 - [vue + typescript 新项目起手式](https://segmentfault.com/a/1190000011744210)
 - [vue + typescript 进阶篇](https://segmentfault.com/a/1190000011878086)
+- [TS 常见问题整理（60 多个，持续更新 ing）](https://juejin.im/post/5e33fcd06fb9a02fc767c427)
 
 ## Vue
 
@@ -209,16 +212,56 @@ sidebar: auto
 - [离职后才搞懂 vue 项目开发流程中的疑惑点](https://juejin.im/post/5c488a3cf265da615705cc2a)
 - [Vuex 带来全新的编程体验](https://juejin.im/post/5c3c911ce51d455231347a7a)
 - [vue-cli3 从搭建到优化](https://juejin.im/post/5c3c544c6fb9a049d37f5903)
+- [what-i-learned-from-analysis-vuepress](https://juejin.im/post/5dc42ebb6fb9a04a9378381c)
 
 ## React
+
+### 文档
+
+- [React](https://zh-hans.reactjs.org/)
+- [Create React App 中文文档](https://www.html.cn/create-react-app/)
+- [React Router](https://react-router.docschina.org/)
+- [Redux](https://redux.js.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/introduction/quick-start)
+- [RxJS 中文文档](https://cn.rx.js.org/)
+- [redux-observable](https://redux-observable-cn.js.org/)
+- [React Lifecycle](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
 ### UI 组件库
 
 - [Ant Design](https://ant.design/index-cn) - 基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品
+- [Salt UI](https://salt-ui.github.io/) - 高效、简洁的移动端 UI 组件库
 
 ### 博文
 
 - [如何管理好 10 万行代码的前端单页面应用](https://juejin.im/post/59cb0d0b5188257e876a2d27)
+- [React 的性能优化（一）当 PureComponent 遇上 ImmutableJS](https://segmentfault.com/a/1190000011408775#articleHeader3)
+- [[译] React-Redux 官方 Hooks 文档说明](http://react-china.org/t/topic/34076)
+- [渔人和 Rxjs 的故事,这次一定教会你前端必会的 Rxjs](https://juejin.im/post/5bc887ba6fb9a05d265991d5)
+- [Immutable 操作在 React 中的实践](https://juejin.im/post/5aefff6a518825672a02d7d8)
+- [Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+- [Redux 入门教程（二）：中间件与异步操作](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_two_async_operations.html)
+- [Redux 入门教程（三）：React-Redux 的用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_three_react-redux.html)
+- [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
+- [2020 年你应该知道的 React 库](https://juejin.im/post/5e4e1b07e51d4527143e44be)
+- [React Hooks 究竟有多慢？](https://juejin.im/post/5e3ac653e51d45270b7d4e3d)
+- [终于搞懂 React Hooks 了！！！！！](https://juejin.im/post/5e53d9116fb9a07c9070da44)
+- [关于 Vue 和 React 的一些对比及个人思考（中）](https://juejin.im/post/5e292746e51d451c8771d16e)
+- [[译] React-Redux 官方 Hooks 文档说明](https://juejin.im/post/5d6600a4f265da03e1688883)
+- [React 开发必须知道的 34 个技巧【近 1W 字】](https://juejin.im/post/5dcb5a80e51d4520db19b906)
+- [使用 70 行代码配合 hooks 重新实现 react-redux](https://juejin.im/post/5be6150551882511a8526955)
+- [使用 React Hooks + Context 打造简版 Redux](https://juejin.im/post/5d5501cd6fb9a06aee362a9d)
+- [2019 年了，整理了 N 个实用案例帮你快速迁移到 React Hooks](https://juejin.im/post/5d594ea5518825041301bbcb)
+- [React Hooks 详解 【近 1W 字】+ 项目实战](https://juejin.im/post/5dbbdbd5f265da4d4b5fe57d)
+- [React16：Hooks 总览，拥抱函数式 (这大概是最全的 React Hooks 吧)](https://juejin.im/post/5cb5705ee51d456e6e38921d)
+- [React hooks 实践](https://juejin.im/post/5c4d7122e51d4556940c15cb)
+- [30 分钟精通 React Hooks](https://juejin.im/post/5be3ea136fb9a049f9121014)
+
+### 源码解析
+
+- [React 源码解析](https://react.jokcy.me/)
+- [React 源码系列(一): 总结看源码心得及方法感受 #1](https://github.com/jsonz1993/react-source-learn/issues/1)
+- [React 源码全方位剖析](http://www.sosout.com/2018/08/12/react-source-analysis.html)
 
 ## Webpack
 
@@ -241,6 +284,9 @@ sidebar: auto
 - [import、require、export、module.exports 混合使用详解](https://segmentfault.com/a/1190000012386576)
 - [前端构建秘籍](https://juejin.im/post/5c9075305188252d5c743520)
 - [结合 vue-cli 来谈 webpack 打包优化](https://juejin.im/post/5c3c55aa51882524b4073394)
+- [html-webpack-plugin 使用总结](https://juejin.im/post/5ce96ad7e51d455a2f2201e1)
+- [带你深度解锁 Webpack 系列(优化篇)](https://juejin.im/post/5e6cfdc85188254913107c1f)
+- [玩转 webpack，使你的打包速度提升 90%](https://juejin.im/post/5e53dbbc518825494905c45f)
 
 ## Gulp
 
@@ -262,6 +308,7 @@ sidebar: auto
 - [你真的会用 Babel 吗？](https://juejin.im/post/59b9ffa8f265da06710d8e89#comment) - 全面了解 Babel
 - [再见，babel-preset-2015](https://zhuanlan.zhihu.com/p/29506685)
 - [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
+- [【建议改成】读完这篇你还不懂 Babel 我给你寄口罩](https://juejin.im/post/5e477139f265da574c566dda)
 
 ## Node.js
 
@@ -379,6 +426,14 @@ sidebar: auto
 
 - [HELLO GITHUB](https://hellogithub.com/) - 分享 GitHub 上有趣、入门级的开源项目
 
+### 博文
+
+- [如何让你的 GitHub 项目表面上更专业](https://juejin.im/post/5d312fb6f265da1b60293c51)
+- [git-flow 的工作流程](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
+- [如何使用 Issue 管理软件项目？](http://www.ruanyifeng.com/blog/2017/08/issue.html)
+- [Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+- [为无线前端团队打造高效 git 工作流](https://juejin.im/post/5b2b76e251882574934c388d)
+
 ## GraphQL
 
 ### 文档
@@ -412,12 +467,45 @@ sidebar: auto
 
 ## 微前端
 
+- [微前端的那些事儿](https://microfrontends.cn/)
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 - [微前端入门](https://juejin.im/post/5d8adb8ff265da5ba12cd173)
+- [Web Components](https://developer.mozilla.org/zh-CN/docs/Web/Web_Components)
+- [Web Components 入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html)
+- [了解什么是微前端](https://juejin.im/post/5d1f19e3f265da1bab29ce5f)
 
 ## Serverless
 
 - [Serverless 掀起新的前端技术变革](https://zhuanlan.zhihu.com/p/65914436)
+
+## 中台
+
+- [漫画：什么是中台？](https://juejin.im/post/5d995f82f265da5ba308389d#comment)
+
+## 监控
+
+- [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
+- [把前端监控做到极致](https://juejin.im/post/5a52f138f265da3e5b32a41b)
+
+## 客户端
+
+- [简述 Chromium, CEF, Webkit, JavaScriptCore, V8, Blink](https://juejin.im/post/5c0492a36fb9a049e82b435a)
+- [从用 AngularJS 开发 PC 客户端说起](https://segmentfault.com/a/1190000004178969)
+- [互联网:桌面客户端框架技术选型 ](https://www.sohu.com/a/251582457_100259554)
+- [漫谈 windows 桌面客户端的 UI 框架](https://www.dazhuanlan.com/2019/09/29/5d8f936a633a2/)
+- [小白必看，JSBridge 初探](https://juejin.im/post/5e5248216fb9a07cb0314fc9)
+- [分享这半年的 Electron 应用开发和优化经验](https://juejin.im/post/5e0010866fb9a015fd69c645)
+- [Electron 从零到一](https://juejin.im/post/5dad8141f265da5b873c778b)
+- [浅谈 Native、Web App、Hybrid、RN 和 Weex 优劣](https://juejin.im/post/59c0b5265188256bd871e9bd)
+- [用 JS 开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
+- [Hybrid APP 架构设计思路](https://segmentfault.com/a/1190000004263182)
+- [前端构造桌面级应用（QQ 音乐）](https://juejin.im/post/5bfcb417e51d452e5e70ea8a)
+- [Electron 构建跨平台应用 Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
+- [Hybrid 开发：JsBridge - Web 和客户端的桥](https://juejin.im/post/58cdeba62f301e007e4af7e6)
+- [JSBridge 实战](https://juejin.im/post/5bda6f276fb9a0226d18931f)
+- [高并发 IM 系统架构优化实践](https://juejin.im/post/5b1e2cc15188257d4529804b)
+- [给客户端同学的一份前端学习指南](https://juejin.im/post/5be2c66df265da61715dd19b)
+- [2000 万日订单背后：美团外卖客户端高可用建设体系](https://juejin.im/post/5b10afc06fb9a01e39624d3d)
 
 ## docker
 
@@ -478,6 +566,7 @@ sidebar: auto
 ### 博文
 
 - [为何浏览器控制台的 JavaScript 引擎性能这么差？](https://www.zhihu.com/question/29352114)
+- [前端效能提升之不可忽略的 Chrome 插件](https://juejin.im/post/5ddca3cbe51d4523601740ae)
 
 ## Visual Studio Code
 
@@ -492,6 +581,9 @@ sidebar: auto
 ### 博文
 
 - [指尖下的 js —— 多触式 web 前端开发之三：处理复杂手势](https://www.cnblogs.com/pifoo/archive/2011/05/22/webkit-touch-event-3.html)
+- [H5 键盘兼容性小结](https://juejin.im/post/5c6d1c8b6fb9a049de6df441)
+- [再学 Android 之 WebView](https://juejin.im/post/5cff8c27f265da1bae38f1c1)
+- [web 移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
 
 ## 算法
 
@@ -548,23 +640,63 @@ sidebar: auto
 
 ## 职业
 
-### 经历
-
 - [16 年毕业的前端 er 在杭州求职 ing](https://juejin.im/post/5a64541bf265da3e2d338862)
 - [我在淘宝做前端的这三年 — 第一年](https://juejin.im/post/5c74d4b9e51d4512c37ea03b)
 - [我在淘宝做前端的这三年 — 第二年](https://juejin.im/post/5c7dafe8f265da2de25bab27)
 - [我在淘宝做前端的这三年 — 第三年](https://juejin.im/post/5c811e426fb9a04a0c2f3bdb)
 - [阿里前端社招面试总结](https://juejin.im/post/5c90f573e51d450a7d7dfc75)
 - [一位前端 2018 绝地求生记](https://juejin.im/post/5c36fe50518825253b5e94f4)
+- [职业路线：前端工程师的晋升逻辑到底是什么](https://juejin.im/post/5d7312f46fb9a06b1d2166e1)
+- [今天聊：你晋升失败的原因是什么](https://juejin.im/post/5e847b295188257375467466)
+- [如何成为公司独当一面的工程师](https://juejin.im/post/5dd4cc71f265da0bca7899cf)
 
-### 面试
+## 团队
 
-- [InterviewMap](https://yuchengkai.cn/docs/frontend/#%E6%93%8D%E4%BD%9C%E7%AC%A6) - 打造最好的面试图谱
-- [JavaScript-面试](https://segmentfault.com/a/1190000015863923?utm_source=tag-newest#articleHeader0)
-- [Javascript 面试核心考点(基础版)](https://github.com/ljianshu/Blog/issues/63)
-- [jsliang 的 2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0)
-- [从面试题看 JS 事件循环与 macro micro 任务队列](https://juejin.im/post/5c8a024d51882546be0a3082)
-- [总结了 17 年初到 18 年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
-- [面试 -- 网络 HTTP](https://juejin.im/post/5872309261ff4b005c4580d4)
-- [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
-- [(下篇)中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂](https://juejin.im/post/5cc26dfef265da037b611738)
+- [第二届搞基建|堂主 - 如何推动前端团队的基础设施建设](https://juejin.im/post/5e644a65518825495d69bca6)
+- [前端 API 层架构，也许你做得还不够](https://juejin.im/post/5de7169451882512454b18d8)
+- [if 我是前端 Leader，谈谈前端框架体系建设](https://juejin.im/post/5decf88f51882512327a510a)
+- [有赞开源项目最佳实践](https://juejin.im/post/5b03871df265da0ba6102022)
+- [技术栈：小菜前端的技术栈是如何规划和演进的](https://juejin.im/post/5c99c17df265da6129788ae2)
+- [滴滴后市场前端技术体系](https://juejin.im/post/5a3dd19b6fb9a0452846b159)
+
+## 协议
+
+- [MIT License](http://choosealicense.online/licenses/mit/)
+
+## 工具
+
+### 文档
+
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+- [iterm2](https://www.iterm2.com/)
+- [Homebrew](https://brew.sh/)
+- [dash](https://kapeli.com/dash)
+- [Worktile](https://worktile.com/) - 团队协作
+- [图表秀](https://sso.tubiaoxiu.com/login?service=https://www.tubiaoxiu.com/srv/login/cas)
+
+### 博文
+
+- [简明 VIM 练级攻略](https://coolshell.cn/articles/5426.html)
+
+## 低代码
+
+- [前端生产方式：过去 10 年回顾和未来 10 年展望](https://juejin.im/post/5e81874be51d4546d23bf9b4)
+- [第三届搞搭建|洛尘 - 如何设计实现 PC 站点搭建系统 - Schema](https://juejin.im/post/5e8835d0518825738a5ac929)
+- [第三期 |《早早聊搞搭建》搞过搭建的我收获了什么？（上篇）](https://juejin.im/post/5e8160db51882573b435f5cc)
+- [第三期 |《早早聊搞搭建》搞过搭建的我收获了什么？（下篇）](https://juejin.im/post/5e82e1156fb9a03c3c350a51)
+- [React 无门槛实现拖拽布局、表单设计器](https://juejin.im/post/5dabb52bf265da5b616de75d)
+
+## 可视化
+
+- [颜值即正义！这几个库颠覆你对数据交互的想象](https://juejin.im/post/5de53fa15188256ed6123a1d)
+
+## 稳定性
+
+- [有赞前端质量保障体系](https://juejin.im/post/5d24096ee51d454d1d6285a1)
+
+## 总结
+
+- [2019 年前端大事件回顾：流年笑掷，未来可期](https://juejin.im/post/5def782ce51d4558181d27ce)
+- [一套比较完整的前端技术选型，需要规整哪些东西，你知道不？](https://juejin.im/post/5b28d4fbe51d45587b47fd43)
+- [前端技术全景展望](https://juejin.im/post/5b8df06fe51d4538b9427998)
+- [前端技术体系大局观](https://zhuanlan.zhihu.com/p/23185351)
