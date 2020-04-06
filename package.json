@@ -1,24 +1,28 @@
 {
-  "name": "awesomes-front-end",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "i-algorithms",
+  "version": "0.0.3",
+  "description": "Introduction To Algorithms With JavaScript.",
+  "main": "lib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ziyi2/awesomes-front-end.git"
+    "url": "git+https://github.com/ziyi2/algorithms"
   },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "dist": "vuepress build docs",
+    "deploy": "gh-pages -d docs/.vuepress/dist",
+    "lint-md": "remark ."
+  },
+  "keywords": [
+    "awesome",
+    "front-end"
+  ],
   "author": "ziyi2",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ziyi2/awesomes-front-end/issues"
-  },
-  "homepage": "https://github.com/ziyi2/awesomes-front-end#readme",
   "devDependencies": {
-    "cz-conventional-changelog": "^2.1.0"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
+    "gh-pages": "^2.2.0",
+    "remark-cli": "^8.0.0",
+    "remark-lint": "^7.0.0",
+    "remark-preset-lint-recommended": "^4.0.0"
   }
 }
