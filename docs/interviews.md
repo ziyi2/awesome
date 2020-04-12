@@ -9,7 +9,7 @@ sidebar: auto
 - [面试分享：两年工作经验成功面试阿里 P6 总结](https://juejin.im/post/5d690c726fb9a06b155dd40d)
 - [在阿里我是如何当面试官的（持续更新）](https://juejin.im/post/5e6ebfa86fb9a07ca714d0ec)
 - [【1 月最新】前端 100 问：能搞懂 80% 的请把简历给我](https://juejin.im/post/5d23e750f265da1b855c7bbe)
-- [2018 前端面试总结，看完弄懂，工资少说加 3K | 掘金技术征文](https://juejin.im/post/5b94d8965188255c5a0cdc02)
+- [2018前端面试总结，看完弄懂，工资少说加3K | 掘金技术征文](https://juejin.im/post/5b94d8965188255c5a0cdc02)
 - [2019 面试系列 - 简历](https://juejin.im/post/5d05ca79f265da1bc75237ea)
 - [JavaScript-面试](https://segmentfault.com/a/1190000015863923?utm_source=tag-newest#articleHeader0)
 - [Javascript 面试核心考点(基础版)](https://github.com/ljianshu/Blog/issues/63)
@@ -23,6 +23,10 @@ sidebar: auto
 - [中高级前端开发高频面试题](https://juejin.im/post/5ceaaaf0e51d45508c2fb7c0)
 - [前端工程师面试必备（持续更新中）](%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%9D%A2%E8%AF%95%E5%BF%85%E5%A4%87%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89)
 - [阿里前端社招面试总结](https://juejin.im/post/5c90f573e51d450a7d7dfc75)
+- [你要的 React 面试知识点，都在这了](https://juejin.im/post/5cf0733de51d4510803ce34e)
+- [大揭秘！“恐怖”的阿里一面，我究竟想问什么](https://juejin.im/post/5d4cd42a6fb9a06aea618155)
+- [你要的Vue面试题都在这里。](https://juejin.im/post/5d13436f6fb9a07eca698ba0)
+- [面试官：自己搭建过vue开发环境吗？](https://juejin.im/post/5cc55c336fb9a032086dd701)
 
 ## 站点
 
